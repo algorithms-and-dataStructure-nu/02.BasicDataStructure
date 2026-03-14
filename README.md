@@ -7,4 +7,5 @@
 
 ## ファイル
 - [講義資料](./02.BasicDataStructure.ipynb)
+- [クイズ](./02.Quiz.ipynb)
 - [演習問題](./02.Exercise.ipynb)
